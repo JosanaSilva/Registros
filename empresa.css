@@ -23,6 +23,9 @@ body{
     flex-direction: column;
     align-items:center ;
 }
+.first input::placeholder{
+    color: #fff 62%;
+}
 .titulo{
     font-size: 22px;
 }

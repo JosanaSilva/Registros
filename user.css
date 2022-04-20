@@ -33,6 +33,9 @@ body{
     border-top: none;
     background-color: transparent;
 }
+.formulario input ::placeholder{
+    color: #fff 62%;
+}
 .formulario #input1{
     background-image:url(./img/Vector.png);
     background-repeat: no-repeat;
